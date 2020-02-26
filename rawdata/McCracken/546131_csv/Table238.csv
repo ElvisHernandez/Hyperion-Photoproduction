@@ -1,0 +1,19 @@
+#: name: Table 238
+#: description: Polarization(LAMBDA) as a function of COS(THETA(K)) for the centre-of-mass range 2.8-2.81 GeV.
+
+#: data_file: Table238.yaml
+#: keyword reactions: GAMMA P --> K+ LAMBDA
+#: keyword observables: POL
+#: keyword plabs: 3.710E+00,3.740E+00
+#: keyword phrases: Exclusive | Polarization | Photoproduction | Strange production
+#: keyword cmenergies: 2.8-2.81
+#: RE,,,GAMMA P --> K+ LAMBDA
+#: W [GEV],,,2.805 (BIN=2.8 TO 2.81)
+#: SQRT(S) [GeV],,,2.8-2.81
+'COS(THETA(P=3,RF=CM)','COS(THETA(P=3,RF=CM) LOW','COS(THETA(P=3,RF=CM) HIGH','POL(P=4)','stat +','stat -','sys +','sys -'
+0.5,0.45,0.55,0.1074,0.1571,-0.1571,0.05,-0.05
+0.6000000000000001,0.55,0.65,-0.2405,0.0847,-0.0847,0.05,-0.05
+0.7,0.65,0.75,-0.5023,0.0842,-0.0842,0.05,-0.05
+0.8,0.75,0.85,-0.8209,0.0396,-0.0396,0.05,-0.05
+0.86,0.85,0.87,-0.8257,0.008,-0.008,0.05,-0.05
+

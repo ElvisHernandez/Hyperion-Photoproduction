@@ -1,0 +1,15 @@
+Path: /HepData/1350/d14-x1-y1
+Angular dependence of the differential cross sections for photon energy 2.375 GeV
+Location: F 18
+E(P=1) : 2.375 GeV
+RE : GAMMA P --> K+ LAMBDA : GAMMA P --> K+ SIGMA0
+SQRT(S) : 2.29 GeV
+W : 2.29 GeV
+x : COS(THETA(RF=CM))
+y : D(SIG)/DCOS(THETA) IN MUB
+xdesc	x	xlow	xhigh	y	dy+	dy-	y	dy+	dy-	
+	0.75	0.75	0.75	1.173	+0.0476	-0.0476	1.026	+0.0443	-0.0443
+	0.85	0.85	0.85	1.489	+0.0421	-0.0421	0.992	+0.034	-0.034
+	0.925	0.925	0.925	1.501	+0.0487	-0.0487	0.845	+0.0367	-0.0367
+	0.975	0.975	0.975	1.549	+0.054	-0.054	0.791	+0.038	-0.038
+

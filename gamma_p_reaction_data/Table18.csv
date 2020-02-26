@@ -1,0 +1,30 @@
+#: table_doi: 10.17182/hepdata.52667.v1/t18
+#: name: Table 18
+#: description: Differential cross section for the W range 1.89 to 1.90 GeV.
+
+#: data_file: Table18.yaml
+#: keyword reactions: GAMMA P --> OMEGA P
+#: keyword observables: DSIG/DCOSTHETA
+#: keyword phrases: Exclusive | Single Differential Cross Section | Angular Dependence | Photoproduction
+#: keyword cmenergies: 1.89-1.9
+#: RE,,,GAMMA P --> OMEGA P
+#: W [GEV],,,1.895 (BIN=1.89 TO 1.90)
+#: SQRT(S) [GeV],,,1.89-1.9
+"COS(THETA(P=3,RF=CM))","COS(THETA(P=3,RF=CM)) LOW","COS(THETA(P=3,RF=CM)) HIGH",D(SIG)/DCOS(THETA) [MUB],error +,error -
+-0.75,-0.8,-0.7,2.476,0.062,-0.062
+-0.6499999999999999,-0.7,-0.6,2.565,0.061,-0.061
+-0.55,-0.6,-0.5,2.757,0.058,-0.058
+-0.45,-0.5,-0.4,2.685,0.052,-0.052
+-0.35,-0.4,-0.3,2.893,0.054,-0.054
+-0.25,-0.3,-0.2,2.927,0.055,-0.055
+-0.15000000000000002,-0.2,-0.1,2.988,0.057,-0.057
+-0.05,-0.1,0.0,2.692,0.056,-0.056
+0.05,0.0,0.1,2.817,0.064,-0.064
+0.15000000000000002,0.1,0.2,2.536,0.064,-0.064
+0.25,0.2,0.3,2.496,0.068,-0.068
+0.35,0.3,0.4,2.46,0.074,-0.074
+0.45,0.4,0.5,2.509,0.076,-0.076
+0.55,0.5,0.6,3.029,0.088,-0.088
+0.6499999999999999,0.6,0.7,3.771,0.109,-0.109
+0.75,0.7,0.8,4.715,0.124,-0.124
+

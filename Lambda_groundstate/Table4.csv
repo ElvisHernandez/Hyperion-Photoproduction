@@ -1,0 +1,25 @@
+#: table_doi: 10.17182/hepdata.54967.v1/t4
+#: name: Table 4
+#: description: Differential cross section as a function of COS(THETA(K)) for the centre-of-mass range 1.65-1.66 GeV.
+
+#: data_file: Table4.yaml
+#: keyword reactions: GAMMA P --> K+ LAMBDA
+#: keyword observables: DSIG/DCOSTHETA
+#: keyword plabs: 9.820E-01,1.000E+00
+#: keyword phrases: Exclusive | Single Differential Cross Section | Angular Dependence | Photoproduction | Strange production
+#: keyword cmenergies: 1.65-1.66
+#: RE,,,GAMMA P --> K+ LAMBDA
+#: W [GEV],,,1.655 (BIN=1.65 TO 1.66)
+#: SQRT(S) [GeV],,,1.65-1.66
+"COS(THETA(P=3,RF=CM)","COS(THETA(P=3,RF=CM) LOW","COS(THETA(P=3,RF=CM) HIGH","D(SIG)/DCOS(THETA(P=3,RF=CM) [MUB]",stat +,stat -,sys +,sys -
+-0.1,-0.15,-0.05,0.6391,0.0699,-0.0699,0.0703,-0.0703
+0.0,-0.05,0.05,0.703,0.0662,-0.0662,0.0773,-0.0773
+0.1,0.05,0.15,0.8145,0.0679,-0.0679,0.0896,-0.0896
+0.2,0.15,0.25,0.9051,0.1018,-0.1018,0.0996,-0.0996
+0.3,0.25,0.35,0.9488,0.0915,-0.0915,0.1044,-0.1044
+0.4,0.35,0.45,0.8704,0.0596,-0.0596,0.0957,-0.0957
+0.5,0.45,0.55,0.9889,0.0666,-0.0666,0.1088,-0.1088
+0.6000000000000001,0.55,0.65,1.0181,0.0726,-0.0726,0.112,-0.112
+0.7,0.65,0.75,0.939,0.0759,-0.0759,0.1033,-0.1033
+0.8,0.75,0.85,1.1295,0.1019,-0.1019,0.1242,-0.1242
+

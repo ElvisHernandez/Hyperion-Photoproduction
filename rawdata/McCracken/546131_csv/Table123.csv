@@ -1,0 +1,24 @@
+#: name: Table 123
+#: description: Polarization(LAMBDA) as a function of COS(THETA(K)) for the centre-of-mass range 1.65-1.66 GeV.
+
+#: data_file: Table123.yaml
+#: keyword reactions: GAMMA P --> K+ LAMBDA
+#: keyword observables: POL
+#: keyword plabs: 9.820E-01,1.000E+00
+#: keyword phrases: Exclusive | Polarization | Photoproduction | Strange production
+#: keyword cmenergies: 1.65-1.66
+#: RE,,,GAMMA P --> K+ LAMBDA
+#: W [GEV],,,1.655 (BIN=1.65 TO 1.66)
+#: SQRT(S) [GeV],,,1.65-1.66
+'COS(THETA(P=3,RF=CM)','COS(THETA(P=3,RF=CM) LOW','COS(THETA(P=3,RF=CM) HIGH','POL(P=4)','stat +','stat -','sys +','sys -'
+-0.1,-0.15,-0.05,-0.0474,0.0622,-0.0622,0.05,-0.05
+0.0,-0.05,0.05,-0.0927,0.0754,-0.0754,0.05,-0.05
+0.1,0.05,0.15,-0.1461,0.0928,-0.0928,0.05,-0.05
+0.2,0.15,0.25,-0.1933,0.1043,-0.1043,0.05,-0.05
+0.3,0.25,0.35,-0.2269,0.1073,-0.1073,0.05,-0.05
+0.4,0.35,0.45,-0.2497,0.1035,-0.1035,0.05,-0.05
+0.5,0.45,0.55,-0.255,0.0976,-0.0976,0.05,-0.05
+0.6000000000000001,0.55,0.65,-0.2482,0.0946,-0.0946,0.05,-0.05
+0.7,0.65,0.75,-0.2302,0.0978,-0.0978,0.05,-0.05
+0.8,0.75,0.85,-0.1872,0.1024,-0.1024,0.05,-0.05
+

@@ -1,0 +1,21 @@
+Path: /HepData/991/d5-x1-y1
+Differential cross section for photon incident energy 1.450 to 1.550 GeV after background subtraction
+Location: T 2,F 10
+Axis error includes +- 10/10 contribution (Normalization uncertainty already included.)
+E(P=1) IN GEV : 1.450 TO 1.550
+RE : GAMMA P --> K0 SIGMA+
+SQRT(S) : 1.897 - 1.946 GeV
+x : COS(THETA(P=3,RF=CM))
+y : D(SIG)/DOMEGA IN MUB/SR
+xdesc	x	xlow	xhigh	y	dy+	dy-	
+	-0.9	-1.0	-0.8	0.007	+0.016	-0.016
+	-0.7	-0.8	-0.6	0.022	+0.024	-0.024
+	-0.5	-0.6	-0.4	0.038	+0.014	-0.014
+	-0.30000000000000004	-0.4	-0.2	0.024	+0.015	-0.015
+	-0.1	-0.2	0.0	0.047	+0.011	-0.011
+	0.1	0.0	0.2	0.062	+0.013	-0.013
+	0.30000000000000004	0.2	0.4	0.038	+0.012	-0.012
+	0.5	0.4	0.6	0.065	+0.01	-0.01
+	0.7	0.6	0.8	0.074	+0.016	-0.016
+	0.9	0.8	1.0	0.06	+0.024	-0.024
+
